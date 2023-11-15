@@ -14,3 +14,7 @@ Next will be greatest
 
 1. open local.html in browser.
 
+Now I'm writing a docuemnation for Git and Git Hub for High School.
+
+I hope they understand. 
+
